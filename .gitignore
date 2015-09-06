@@ -1,1 +1,5 @@
 jenkins
+vendor
+.docker-id
+.idea
+*~
