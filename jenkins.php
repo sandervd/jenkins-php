@@ -34,7 +34,7 @@ class jenkins
     {
         $this->conn = new Client([
             'base_uri' => JENKINS_HOST,
-            'timeout' => 2.0,
+            'timeout' => 5.0,
         ]);
     }
 

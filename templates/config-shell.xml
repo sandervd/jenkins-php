@@ -2,7 +2,7 @@
 <project>
   <actions/>
   <description/>
-  <displayName>fomi</displayName>
+  <displayName>display</displayName>
   <keepDependencies>false</keepDependencies>
   <properties/>
   <scm class="hudson.scm.NullSCM"/>
