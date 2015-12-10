@@ -3,3 +3,4 @@ vendor
 .docker-id
 .idea
 *~
+settings.php
